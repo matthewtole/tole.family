@@ -1,3 +1,3 @@
-# eleventy-tailwind-starter
+# tole.family
 
-My starter template for building a site with Eleventy and Tailwind CSS
+Source code for tole.family, the landing page for Matthew and Katherine Tole.
