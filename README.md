@@ -1,2 +1,3 @@
-# tole.family
- Landing page for the Tole family website
+# eleventy-tailwind-starter
+
+My starter template for building a site with Eleventy and Tailwind CSS
